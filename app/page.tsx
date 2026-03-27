@@ -136,7 +136,7 @@ export default function Page() {
               Faculty of Mathematics and Physics, University of Ljubljana
             </p>
             <p className="text-sm text-neutral-600 dark:text-neutral-400">
-              Pure Mathematics — 4 years (left to pursue AI full-time)
+              Undergraduate Program in Pure Mathematics — 4 years
             </p>
           </div>
         </div>
